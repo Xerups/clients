@@ -52,6 +52,10 @@
     {
         "country": "Phillipines",
         "value": 120
+    },
+    {
+        "country": "Test",
+        "value": 900
     }
   ],
   "data4": [
